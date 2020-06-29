@@ -1,0 +1,26 @@
+{
+  "name": "m-jarvis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosball/m-jarvis.git"
+  },
+  "author": "mosball",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosball/m-jarvis/issues"
+  },
+  "homepage": "https://github.com/mosball/m-jarvis#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "underscore": "^1.9.1",
+    "xml-js": "^1.6.11"
+  }
+}
